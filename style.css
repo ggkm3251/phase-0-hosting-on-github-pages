@@ -1,0 +1,9 @@
+body {
+    background: blue;
+  }
+h1 {
+    font-style: oblique;
+    text-align: center;
+    background-color: aqua;
+    margin-top: 40px;
+}
